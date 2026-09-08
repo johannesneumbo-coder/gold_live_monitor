@@ -1,0 +1,6 @@
+requests
+opencv-python
+pytesseract
+Pillow
+yt-dlp
+python-dotenv
